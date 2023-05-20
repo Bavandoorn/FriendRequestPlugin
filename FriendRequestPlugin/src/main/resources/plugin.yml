@@ -1,0 +1,4 @@
+name: FriendRequestPlugin
+version: '${project.version}'
+main: me.friendrequestplugin.FriendRequestPlugin
+api-version: 1.19
