@@ -90,11 +90,9 @@ public class FriendRequestPlugin extends JavaPlugin implements Listener {
 
     @EventHandler
     public void onPlayerInteract(PlayerInteractEvent event) {
-        // You can handle interactions here if needed
     }
 
     @EventHandler
     public void onAsyncPlayerChat(AsyncPlayerChatEvent event) {
-        // You can handle chat events here if needed
     }
 }
